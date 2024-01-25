@@ -78,7 +78,7 @@ body {
     outline: none;
   }
 
-  slider-container .action-buttons button {
+  .slider-container .action-buttons button {
     position: absolute;
     left: 35%;
     top: 50%;
