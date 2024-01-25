@@ -42,6 +42,20 @@ body{
     margin-top: -30px;
   }
 
-  
+  /* this method for right slide container */
+  .right-slide{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 35%;
+    width: 65%;
+  }
+  .right-slide > div{
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+  }
 
 
